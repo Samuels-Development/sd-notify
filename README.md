@@ -5,7 +5,6 @@
 ## 🔔 Contact
 Author: Samuel#0008  
 Discord: [Join the Discord](https://discord.gg/samueldev)
-
 Store: [Click Me](https://fivem.samueldev.shop)
 
 ## 💾 Installation
