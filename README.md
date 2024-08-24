@@ -1,11 +1,11 @@
 # sd-notify
 
-`sd-notify` is a clean and modern notification script for FiveM. It allows developers to send customizable notifications to players on both the client and server sides, supporting various notification types, durations, and even custom sounds.
+`sd-notify` is a clean and modern notification script for FiveM, supporting various notification types, durations, and even custom sounds.
 
 ## 🔔 Contact
 Author: Samuel#0008  
 Discord: [Join the Discord](https://discord.gg/samueldev)
-Store: Discord: [Click Me](https://fivem.samueldev.shop)
+Store: [Click Me](https://fivem.samueldev.shop)
 
 ## 💾 Installation
 1. Download the latest release from the [GitHub repository](https://github.com/Samuels-Development/sd-notify/releases).
@@ -88,9 +88,3 @@ end
 ```
 
 This integration will ensure that all notifications triggered by `QBCore.Functions.Notify` are handled by `sd-notify`.
-
-
-### Credits
-Thanks to the FiveM community for the continuous inspiration and contributions.
-
-For a copy of this notice, please refer to the [NOTICE.md](./NOTICE.md) file.
