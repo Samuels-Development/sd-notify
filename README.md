@@ -3,6 +3,7 @@
 `sd-notify` is a clean and modern notification script for FiveM, supporting various notification types, durations, and even custom sounds.
 
 [![Watch the video](https://i.ibb.co/7pN29Lg/samuel-dev-notify-thumbnail-1.png)](https://www.youtube.com/watch?v=i_X3veXnS9g)
+
 Click the thumbnail to view a brief video showcase of light & dark mode.
 
 ## 🔔 Contact
