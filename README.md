@@ -8,7 +8,7 @@ Click the thumbnail to view a brief video showcase of light & dark mode.
 
 ## 🔔 Contact
 Author: Samuel#0008  
-Discord: [Join the Discord](https://discord.gg/samueldev)
+Discord: [Join the Discord](https://discord.gg/FzPehMQaBQ)
 Store: [Click Me](https://fivem.samueldev.shop)
 
 ## 💾 Installation
